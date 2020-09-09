@@ -3,7 +3,11 @@
 
 # TEAM
 
+<<<<<<< HEAD
     <name> -- <Role change in Master> -- <twitter>
+=======
+    <Jitender Simple Switch Branch> -- <role> -- <twitter>
+>>>>>>> simplechange
 
 # THANKS
 
