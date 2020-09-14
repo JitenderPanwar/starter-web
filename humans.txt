@@ -3,11 +3,9 @@
 
 # TEAM
 
-<<<<<<< HEAD
+
     <name> -- <Role change in Master> -- <twitter>
-=======
-    Jitender Panwar | simple chnage brancg 
->>>>>>> simplechange
+
 
 # THANKS
 
